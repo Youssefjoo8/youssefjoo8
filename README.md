@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hfhhduud22@gmail.com**
 
-- ⚡ Fun fact **> **"I believe that every bug is just an unplanned feature waiting for a creative solution."** 🚀**
+- ⚡ Fun fact ** **I believe that every bug is just an unplanned feature waiting for a creative solution.** 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
