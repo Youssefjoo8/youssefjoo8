@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">Turning lines of code into living worlds — from web servers to game engines. 🌐✨</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/youssefjoo8/youssefjoo8/main/banner.png" alt="Profile Banner" width="100%" />
 </p>
+
+
+<h1 align="center">Hi 👋, I'm Youssef</h1>
+<h3 align="center">Turning lines of code into living worlds — from web servers to game engines. 🌐✨</h3>
+
 
 ---
 
