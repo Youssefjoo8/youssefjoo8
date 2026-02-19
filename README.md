@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">Turning lines of code into living worlds — from web servers to game engines. 🌐✨</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefjoo8&theme=tokyonight&column=7" alt="youssefjoo8 trophies" />
-</p>
+
 
 ---
 
