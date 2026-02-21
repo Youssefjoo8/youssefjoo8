@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">Turning lines of code into living worlds — from web servers to game engines. 🌐✨</h3>
 
-
 ---
 
 ### 🕹️ Game Development Journey
@@ -30,10 +29,9 @@
 
 ### 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefjoo8&theme=tokyonight&border_radius=10" alt="youssefjoo8's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefjoo8&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="youssefjoo8's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefjoo8&show_icons=true&theme=tokyonight&layout=compact&border_radius=10" alt="youssefjoo8's Top Langs" height="180" />
 </p>
 
 ---
